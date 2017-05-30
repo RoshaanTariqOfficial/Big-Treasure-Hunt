@@ -8,7 +8,7 @@ function check1(){
         alert('You Won!!!');
         setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
     }
     else{
         document.getElementById('pic1').src = 'images/skull.png';
@@ -18,7 +18,7 @@ function check1(){
             alert("Game Over");
             setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
         }
     }
 }
@@ -29,7 +29,7 @@ function check2(){
         alert('You Won!!!');
         setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
     }
     else{
         document.getElementById('pic2').src = 'images/skull.png';
@@ -39,7 +39,7 @@ function check2(){
             alert("Game Over");
             setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
         }
     }
 }
@@ -50,7 +50,7 @@ function check3(){
         alert('You Won!!!');
         setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
     }
     else{
         document.getElementById('pic3').src = 'images/skull.png';
@@ -60,7 +60,7 @@ function check3(){
             alert("Game Over");
             setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
         }
     }
 }
@@ -71,7 +71,7 @@ function check4(){
         alert('You Won!!!');
         setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
     }
     else{
         document.getElementById('pic4').src = 'images/skull.png';
@@ -81,7 +81,7 @@ function check4(){
             alert("Game Over");
             setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
         }
     }
 }
@@ -92,7 +92,7 @@ function check5(){
         alert('You Won!!!');
         setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
     }
     else{
         document.getElementById('pic5').src = 'images/skull.png';
@@ -102,7 +102,7 @@ function check5(){
             alert("Game Over");
             setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
         }
     }
 }
@@ -113,7 +113,7 @@ function check6(){
         alert('You Won!!!');
         setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
     }
     else{
         document.getElementById('pic6').src = 'images/skull.png';
@@ -123,7 +123,7 @@ function check6(){
             alert("Game Over");
             setTimeout(function() {
                window.location.reload();
-            }, 2000);
+            }, 1000);
         }
     }
 }
